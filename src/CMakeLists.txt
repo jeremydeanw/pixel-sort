@@ -1,0 +1,1 @@
+add_library(PixelSortSrc AnimatedPixel.cpp)
